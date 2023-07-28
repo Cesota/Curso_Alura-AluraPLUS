@@ -169,6 +169,12 @@ body {
         background-image: none;
     }
 
+    .principal {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .container__imagem {
         width: 50vw;
     }
